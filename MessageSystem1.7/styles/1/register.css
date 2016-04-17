@@ -1,0 +1,53 @@
+@CHARSET "UTF-8";
+
+#register{
+	width:960px;
+	height:650px;
+	border: 1px black solid;
+	margin:14px auto;
+}
+
+#register h2{
+	margin:0 0;
+	background:#eee;
+	font-size:20px;
+	text-align:center;
+}
+
+#register h3{
+	text-align:center;
+}
+
+#register form{
+	width:450px;
+	margin:auto auto auto 300px;
+}
+
+#register form .textbox{
+	width:180px;
+}
+
+
+#register form table tr td input{
+	margin:5px auto 5px auto;
+}
+
+#register form img{
+	margin-left:100px;
+	cursor:pointer;
+}
+
+#register form #checkcode {
+	width:90px;
+}
+#register form #checkcode_pic{
+	margin-left:20px;
+}
+#register form #submit{
+	width:50px;
+	margin-left: 150px;
+}
+
+
+
+

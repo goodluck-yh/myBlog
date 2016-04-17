@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+
+
+
+#member{
+	width:340px;
+	height:250px;
+	border:1px black solid;
+	float:left;
+	margin-top:14px;
+}
+
+#pic{
+	width:340px;
+	height:250px;
+	border:1px black solid;
+	float:left;
+	clear:left;
+	margin-top:14px;
+}
+
+#list{
+	width:600px;
+	height:514px;
+	border:1px black solid;
+	float:right;
+	margin-top:14px;
+}
+
